@@ -15,5 +15,5 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/)
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.
 
