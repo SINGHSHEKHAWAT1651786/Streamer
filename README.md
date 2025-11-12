@@ -15,5 +15,5 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the ()
+The easiest way to deploy your Next.js app is to use for the Stream application on 
 
