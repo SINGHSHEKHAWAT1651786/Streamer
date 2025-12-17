@@ -1,4 +1,3 @@
-This is the Stream Website by using the Next js project. It covers Audio and video broadcasting services. This website featuring live-streamed activity of the  webcam performances, including activity, via various broadcast methods.In this website has token system.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
